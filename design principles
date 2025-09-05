@@ -1,0 +1,5 @@
+DESIGN PRINCIPLES IN LLD:
+DRY (Don't Repeat Yourself), modularity, and the use of design patterns
+KISS(Keep it simple stupid)
+AGNI(Aren't gonna need it)     
+SOLID principles (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion),
